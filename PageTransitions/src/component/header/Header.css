@@ -1,0 +1,93 @@
+.row-container{
+  height: 80px;
+  background-color: crimson;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+.logo{
+  margin-left: 40px;
+  padding: 7px;
+}
+.logo img{
+  height: 100%;
+  width: 85px;
+  border-radius: 50%;
+
+}
+.option{
+  height: 100%;
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 40px;
+}
+.option ul{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  margin:0px;
+  padding:0px;
+}
+.option ul li{
+  /* display: inline-block; */
+  margin-right: 22px;
+}
+.option ul li a{
+  text-decoration: none;
+  color: inherit;
+  font-size: 22px;
+  font-weight: bold;
+  color:white;
+} 
+
+
+/* .option ul  */
+
+
+
+/* height: 200px;
+  width:200px;
+  display:flex;
+  overflow-x: hidden ;
+  background-color:#b86868;
+  justify-content: space-between;
+  top:0;
+  margin-bottom: 20px;
+  z-index: 99;
+  border:1px solid black; */
+
+
+
+
+
+
+/* .logo{
+  width: 100px;
+  height: 100px;
+}
+.logo img{
+  width: 60px;
+  height: auto;
+}
+.right ul{
+  display: flex;
+  list-style-type: none;
+  margin:0;
+  padding:0;
+}
+.right ul li{
+  display: inline-block;
+  margin-right: 20px;
+}
+.right ul li:last-child {
+  margin-right: 0;
+}
+.right ul li a{
+  text-decoration: none;
+  color: inherit;
+  font-weight: bold;
+} */

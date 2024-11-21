@@ -1,0 +1,23 @@
+.About-container{
+  /* max-width: 1300px; */
+  /* overflow-x: hidden; */
+  height: 100vh;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: lightgreen;
+}
+.sec-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 30px;
+    text-align: justify;
+}
+.sec-2 h1{
+  margin-bottom:0;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.sec-2 p{
+  font-size: larger;
+}

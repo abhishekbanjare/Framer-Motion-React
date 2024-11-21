@@ -1,0 +1,15 @@
+body{
+  margin:0;
+  padding:0;
+}
+.App {
+  text-align: center;
+  background-color: #fff;
+  color:#000;
+
+  /* height: 100vh; */
+}
+.App{
+  padding: 2rem;
+  /* border:1px solid brown; */
+}
